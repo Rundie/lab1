@@ -58,3 +58,11 @@ int main()
 
 	return 0;
 }
+
+void probando() {
+	
+	cout << "Probando... Probando!";
+	
+	return "Por qué no te provay esta mejor?";
+}
+}
